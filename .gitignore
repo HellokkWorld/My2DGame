@@ -1,0 +1,5 @@
+echo "/bin/
+.settings/
+.classpath
+.project
+*.class">.gitignore
